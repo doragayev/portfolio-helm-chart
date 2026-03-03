@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: doragayev/portfolio-project
-  tag: "latest"
+  tag: "98d2c76"
   pullPolicy: IfNotPresent
 
 service:
